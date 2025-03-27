@@ -1,5 +1,4 @@
 import asyncio
-from typing import is_protocol
 from bleak import BleakScanner, BleakClient
 
 
